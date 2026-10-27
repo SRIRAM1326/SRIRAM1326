@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Sriram M — Backend & Algorithmic Trading Developer" width="100%">
+<img src="./banner.svg" alt="Sriram M — Backend & Algorithmic Trading Developer" width="100%">
 
 <br>
 
@@ -13,7 +13,7 @@
 
 <br>
 
-<img src="./assets/title-profile.svg" alt="The Profile" width="100%">
+<img src="./title-profile.svg" alt="The Profile" width="100%">
 
 <br>
 
@@ -31,7 +31,7 @@ I also build full-stack applications and applied AI products, and I care as much
 
 <br>
 
-<img src="./assets/title-toolkit.svg" alt="The Toolkit" width="100%">
+<img src="./title-toolkit.svg" alt="The Toolkit" width="100%">
 
 <br>
 
@@ -39,25 +39,31 @@ I also build full-stack applications and applied AI products, and I care as much
 
 **Languages & Frameworks**
 
+<br>
+
 <img src="https://img.shields.io/badge/Python-1E3A2F?style=flat-square&logo=python&logoColor=F7F5F0" alt="Python">
 <img src="https://img.shields.io/badge/FastAPI-1E3A2F?style=flat-square&logo=fastapi&logoColor=F7F5F0" alt="FastAPI">
 <img src="https://img.shields.io/badge/Flask-1E3A2F?style=flat-square&logo=flask&logoColor=F7F5F0" alt="Flask">
 <img src="https://img.shields.io/badge/Next.js-1E3A2F?style=flat-square&logo=nextdotjs&logoColor=F7F5F0" alt="Next.js">
 <img src="https://img.shields.io/badge/SQLite-1E3A2F?style=flat-square&logo=sqlite&logoColor=F7F5F0" alt="SQLite">
 
-<br>
+<br><br>
 
 **Markets & Integrations**
+
+<br>
 
 <img src="https://img.shields.io/badge/DhanHQ-5B1F24?style=flat-square" alt="DhanHQ">
 <img src="https://img.shields.io/badge/Flattrade-5B1F24?style=flat-square" alt="Flattrade">
 <img src="https://img.shields.io/badge/NIFTY%20%26%20SENSEX%20Derivatives-5B1F24?style=flat-square" alt="NIFTY and SENSEX Derivatives">
 
-<br>
+<br><br>
 
 **Disciplines**
 
-<img src="https://img.shields.io/badge/Algorithmic%20Trading-B08D57?style=flat-square&labelColor=B08D57&logoColor=1A1A18" alt="Algorithmic Trading">
+<br>
+
+<img src="https://img.shields.io/badge/Algorithmic%20Trading-B08D57?style=flat-square" alt="Algorithmic Trading">
 <img src="https://img.shields.io/badge/Real--Time%20Systems-B08D57?style=flat-square" alt="Real-Time Systems">
 <img src="https://img.shields.io/badge/RAG%20%26%20Voice%20AI-B08D57?style=flat-square" alt="RAG and Voice AI">
 <img src="https://img.shields.io/badge/System%20Design-B08D57?style=flat-square" alt="System Design">
@@ -67,7 +73,7 @@ I also build full-stack applications and applied AI products, and I care as much
 
 <br>
 
-<img src="./assets/title-works.svg" alt="Selected Works" width="100%">
+<img src="./title-works.svg" alt="Selected Works" width="100%">
 
 <br>
 
@@ -88,7 +94,7 @@ I also build full-stack applications and applied AI products, and I care as much
 
 <br>
 
-<img src="./assets/title-chronicle.svg" alt="The Chronicle" width="100%">
+<img src="./title-chronicle.svg" alt="The Chronicle" width="100%">
 
 <br>
 
@@ -112,24 +118,24 @@ I also build full-stack applications and applied AI products, and I care as much
 
 <br>
 
-<img src="./assets/title-activity.svg" alt="Activity" width="100%">
+<img src="./title-activity.svg" alt="Activity" width="100%">
 
 <br>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sriramio&show_icons=true&hide_border=false&border_radius=0&bg_color=F7F5F0&title_color=1E3A2F&text_color=1A1A18&icon_color=B08D57&border_color=B08D57&custom_title=Contributions" alt="GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriramio&layout=compact&hide_border=false&border_radius=0&bg_color=F7F5F0&title_color=1E3A2F&text_color=1A1A18&border_color=B08D57&custom_title=Languages" alt="Top languages">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SRIRAM1326&show_icons=true&hide_border=false&border_radius=0&bg_color=F7F5F0&title_color=1E3A2F&text_color=1A1A18&icon_color=B08D57&border_color=B08D57&custom_title=Contributions" alt="GitHub stats">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRIRAM1326&layout=compact&hide_border=false&border_radius=0&bg_color=F7F5F0&title_color=1E3A2F&text_color=1A1A18&border_color=B08D57&custom_title=Languages" alt="Top languages">
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=sriramio&hide_border=false&border_radius=0&background=F7F5F0&border=B08D57&stroke=B08D57&ring=B08D57&fire=5B1F24&currStreakNum=1A1A18&sideNums=1A1A18&currStreakLabel=1E3A2F&sideLabels=1E3A2F&dates=6B6B63" alt="Contribution streak">
+<img src="https://streak-stats.demolab.com?user=SRIRAM1326&hide_border=false&border_radius=0&background=F7F5F0&border=B08D57&stroke=B08D57&ring=B08D57&fire=5B1F24&currStreakNum=1A1A18&sideNums=1A1A18&currStreakLabel=1E3A2F&sideLabels=1E3A2F&dates=6B6B63" alt="Contribution streak">
 
 </div>
 
 <br>
 
-<img src="./assets/title-contact.svg" alt="Correspondence" width="100%">
+<img src="./title-contact.svg" alt="Correspondence" width="100%">
 
 <br>
 
@@ -146,4 +152,4 @@ I am open to conversations about backend engineering, trading systems and applie
 
 <br>
 
-<img src="./assets/footer.svg" alt="Built with patience. Shipped with precision." width="100%">
+<img src="./footer.svg" alt="Built with patience. Shipped with precision." width="100%">
